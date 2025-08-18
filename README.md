@@ -1,4 +1,4 @@
 # DSA
 Hello Sir <br>
-Author Deep (MCA)
+Deep Rajput
 This is My First Repository
